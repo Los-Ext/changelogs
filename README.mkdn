@@ -1,0 +1,38 @@
+![alt text][banner]
+
+ [banner]:https://lineageos.org/images/2024-02-14/hero.jpg ""
+* Fork of Lineage with features mentioned below
+
+Date - 17/03/2024
+----------
+* GameSpace and App lock
+* Add New Network traffic Indicator
+* Add PixelPropsUtils [Spoofs]
+* Add Window ignore secure
+* Enable VoNR by default
+* Add Per-App Volume Control
+* Add CPU Info overlay/tile
+* Introduce Data Switch Tile
+* Three-fingers-swipe to screenshot
+* Enable Advance Reboot by Default
+* Add restart SystemUI in Advanced Reboot
+* Toggle for secure tiles on keyguard
+* Require unlocking to use sensitive QS tiles
+* Spoof current storage encryption status
+* Allow daily data usage in QS footer 
+* Allow hiding QS footer data usage
+* Update Data icon as per new Silk design
+* Add User toggle for unlimited photos storage
+* Toggle for GamesProps to unlock higher FPS in games
+* Add pref for qs brightness slider position
+* Optimize Launcher3 and Settings for speed
+* Added workaround for SafetyNet check and spoofed it
+* Optimized the performance of boot time
+* add Optimized Art and Bionic from CrDroid
+* many more fixes and optimisations
+
+Credits
+---------
+* AwakenOS
+* CrDroid Android
+* Project Matrixx
