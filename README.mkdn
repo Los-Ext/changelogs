@@ -3,6 +3,19 @@
  [banner]:https://lineageos.org/images/2024-02-14/hero.jpg ""
 * Fork of Lineage with features mentioned below
 
+Date - 20/03/2024
+* Show a bolt ⚡ when charging
+* Add New Lockscreen clock style
+* Add battery styles customizations
+* Add more Landscape Battery Styles
+* Add Add signal and wifi icon style theming
+* Add icon shapes, icon packs, fonts Customisation
+* Nuke vendor security patch and build date from firmware dialogue
+* remove duplicate build number from firmware dialogue
+* Prefer using "user" buildtype prop for userdebug aswell
+* core: disable debug and Update dexopt flags
+* Always use release-keys and Disable ro.kernel.android.checkjni
+
 Date - 17/03/2024
 ----------
 * GameSpace and App lock
@@ -36,3 +49,4 @@ Credits
 * AwakenOS
 * CrDroid Android
 * Project Matrixx
+* Superior/Extended
