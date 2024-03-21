@@ -44,6 +44,10 @@ Date - 17/03/2024
 * add Optimized Art and Bionic from CrDroid
 * many more fixes and optimisations
 
+Known bugs
+---------
+* Device goes to lockscreen when connected to bluetooth device
+
 Credits
 ---------
 * AwakenOS
