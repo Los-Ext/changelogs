@@ -15,6 +15,7 @@ StatusBar
 - Data Disabled Indicator
 - Show 4G icon 
 - Clock Background chip
+- Add ongoing action chip
 - Network traffic monitor
 
 Quick Settings
