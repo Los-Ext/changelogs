@@ -1,79 +1,64 @@
 # Fork of Lineage with features mentioned below
 
----
-### [Ext Lab]
-Customizations
-- Icon pack
-- Icon Shape
-- Signal icon style
-- WiFi icon style
-- Battery style
-- Font style
-- Lockscreen clock font
-
-StatusBar
+StatusBar [Icons]
+- Show 4G icon
 - Data Disabled Indicator
-- Show 4G icon 
-- Clock Background chip
-- Add ongoing action chip
 - Network traffic monitor
+- Introduce wifi standard icon feature
+- HD & wifi calling statusbar icons feature
+- Hide bluetooth battery level
+- Add option to tint status bar icons with accent color
+- Add New battery styles [iOS]
 
 Quick Settings
 - Show data usage
-- Secure lockscreen
-- Better landscape QS
-- Brightness Slider
-- Brightness Slider Style
-- Tile layout and style 
+- Brightness slider Settings
+- Compact Media player mode
+- Add data usage cycle type option
+- Allow disable qs media player
 
 Gestures
-- Swipe to Screenshots
-- Tap to sleep
-- Tap to sleep statusbar
+- Three finger swipe actions
 
 Miscellaneous 
-- Kill background process
-- Sensor blocker 
-- Freeform & SideBar
-
-Security
+- Sensor blocker per-package
 - Ignore windows Secure flags
 - Hide Screen capture status
 - No storage Restriction
-- Hide Developer status
-
-Lockscreen
-- Ripple effect
-- Fingerprint action vibration
-- Add lockscreen widgets
-- OmniJaws Weather Settings
+- Add support for hide applist
 
 Spoofs
-- GMS spoof [Toggle | Update json]
+- Load custom Keybox & PIF
 - Unlimited Photos storage
-- Unlock Higher fps in games
+- Autofix VBmeta detection
 
----
-### [Settings]
 Network
 - Hotspot: Add client manager
-- Allow disabling private DNS for VPN
 - Add a toggle to force LTE_CA
 
+Battery
+- background process killer
+- App battery optimization settings
+
 Display
+- Introduce Reality display engine
+- Force dark mode for third-party apps
 - Cutout force full screen
+- Add blur toggle & intensity
+- add hdr display switch & intensity
+- Extra Dim feature
+- smallest width options
+- Display (Notch) Cutout
 
 Sound
 - Per-App Volume Control
+- Add screenshot sound toggle
 
 Navigation
 - Add Circle To Search
 - long press on navbar to search
-- Hide IME space under keyboard
+- allow hiding navigation ime bar
 
----
-### [Optimizations]
-- Enable global -O3
-- switch to jemalloc by default
-- Enable LTO (full/thin) at various places 
-- Optimize arm-routine, art, bionic, pgo, sqlite, libjpeg-turbo
+Notification
+- compact headsup notification
+- switch for small notifications
