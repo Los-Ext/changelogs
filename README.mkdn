@@ -21,6 +21,7 @@ Gestures
 - Three finger swipe actions
 
 Miscellaneous 
+- Add LMO Side bar & Freeform
 - Sensor blocker per-package
 - Ignore windows Secure flags
 - Hide Screen capture status
@@ -28,6 +29,7 @@ Miscellaneous
 - Add support for hide applist
 
 Spoofs
+- Toggle to Disable PIF spoof
 - Load custom Keybox & PIF
 - Unlimited Photos storage
 - Autofix VBmeta detection
@@ -51,6 +53,7 @@ Display
 - Display (Notch) Cutout
 
 Sound
+- Ringtone setting for Multi SIM device
 - Per-App Volume Control
 - Add screenshot sound toggle
 
