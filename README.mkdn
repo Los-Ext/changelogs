@@ -29,9 +29,10 @@ Miscellaneous
 - Add support for hide applist
 
 Spoofs
-- Toggle to Disable PIF spoof
+- PIF spoof [toggle]
+- Unlimited Photos storage [toggle]
+- Games Spoof [toggle]
 - Load custom Keybox & PIF
-- Unlimited Photos storage
 - Autofix VBmeta detection
 
 Network
