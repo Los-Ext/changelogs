@@ -1,32 +1,35 @@
 # Fork of Lineage with features mentioned below
 
 StatusBar [Icons]
-- Show 4G icon
-- Data Disabled Indicator
 - Network traffic monitor
+- Call strength & Show 4G icon
+- Data Disabled Indicator
 - Introduce wifi standard icon feature
 - HD & wifi calling statusbar icons feature
-- Hide bluetooth battery level
-- Add option to tint status bar icons with accent color
-- Add New battery styles [iOS]
+- Roaming & data saver indicator
 
 Quick Settings
 - Show data usage
-- Brightness slider Settings
+- Tiles & Brightness slider settings
 - Compact Media player mode
-- Add data usage cycle type option
-- Allow disable qs media player
 
-Gestures
-- Three finger swipe actions
+Tiles
+- Flashlight strength control
+- Hotspot toggle in QS internet dialog
+- Introduce DataSwitchTile
+- Introduce ringer qs tile
+- Add tile to show volume panel
 
 Miscellaneous 
-- Add LMO Side bar & Freeform
+- Three finger swipe actions
+- LMO Side bar & Freeform
 - Sensor blocker per-package
 - Ignore windows Secure flags
 - Hide Screen capture status
 - No storage Restriction
-- Add support for hide applist
+
+App info
+- App hide feature
 
 Spoofs
 - PIF spoof [toggle]
@@ -37,32 +40,38 @@ Spoofs
 
 Network
 - Hotspot: Add client manager
-- Add a toggle to force LTE_CA
+- a toggle to force LTE_CA
 
 Battery
 - background process killer
-- App battery optimization settings
+- battery optimization settings
 
 Display
 - Introduce Reality display engine
 - Force dark mode for third-party apps
 - Cutout force full screen
-- Add blur toggle & intensity
-- add hdr display switch & intensity
+- blur toggle & intensity
 - Extra Dim feature
 - smallest width options
 - Display (Notch) Cutout
+- Font Selector
 
-Sound
+Sound & Vibration
 - Ringtone setting for Multi SIM device
-- Per-App Volume Control
-- Add screenshot sound toggle
+- multi-media focus support
+- screenshot sound toggle
+- Incall vibration option
+- Phone ringtone setting for Multi SIM device
 
 Navigation
-- Add Circle To Search
+- Circle To Search
 - long press on navbar to search
 - allow hiding navigation ime bar
 
 Notification
 - compact headsup notification
 - switch for small notifications
+
+Lockscreen
+- Weather Settings [OmniJaws]
+- option to disable quicksettings
