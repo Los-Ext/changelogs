@@ -24,6 +24,7 @@ Miscellaneous
 - Three finger swipe actions
 - LMO Side bar & Freeform
 - Sensor blocker per-package
+- background process killer
 - Ignore windows Secure flags
 - Hide Screen capture status
 - No storage Restriction
@@ -43,7 +44,6 @@ Network
 - a toggle to force LTE_CA
 
 Battery
-- background process killer
 - battery optimization settings
 
 Display
@@ -75,3 +75,4 @@ Notification
 Lockscreen
 - Weather Settings [OmniJaws]
 - option to disable quicksettings
+- option to disable power menu
